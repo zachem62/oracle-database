@@ -1,4 +1,4 @@
---ASSIGNMENT 3 
+
 
 ------------------------------------------
 --BUILD AND POPULATE SCHEMA
